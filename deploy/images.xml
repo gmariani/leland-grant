@@ -1,0 +1,21 @@
+<images>
+	<gallery name="gallery" directory="images" openDir="images/large">
+		<imageNode jpegURL="Dsc00785.jpg" >Butter Band Concert 1</imageNode>
+		<imageNode jpegURL="Dsc00829.jpg" >Butter Band Concert 2</imageNode>
+		<imageNode jpegURL="family.jpg">Family Picture</imageNode>
+		<imageNode jpegURL="Image04.sized.jpg" >Butter Band Concert 3</imageNode>
+		<imageNode jpegURL="Image09.sized.jpg" >Butter Band Concert 4</imageNode>
+		<imageNode jpegURL="keyboard.jpg">Keyboard</imageNode>
+		<imageNode jpegURL="leland1.jpg" >Leland 1</imageNode>
+		<imageNode jpegURL="leland2.jpg" >Leland 2</imageNode>
+		<imageNode jpegURL="lelandgrant.jpg" >Leland Grant</imageNode>
+		<imageNode jpegURL="Rotation_of_Image07.jpg" >Butter Band Concert 5</imageNode>		
+		<imageNode jpegURL="singing1.jpg" >Singing</imageNode>
+		<imageNode jpegURL="DSC01106.jpg" >Butter Band Concert 6</imageNode>
+		<imageNode jpegURL="piano3.jpg" >Piano 1</imageNode>
+		<imageNode jpegURL="unh!.jpg" >Piano 2</imageNode>
+		<imageNode jpegURL="story1.jpg">Story 1</imageNode>
+		<imageNode jpegURL="story2.jpg" >Story 2</imageNode>
+		<imageNode jpegURL="story4.jpg">Story 3</imageNode>		
+	</gallery>
+</images>
